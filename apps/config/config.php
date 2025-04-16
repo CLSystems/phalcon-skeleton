@@ -8,7 +8,7 @@ return new Config(
             'adapter'  => 'Mysql',
             'host'     => 'localhost',
             'username' => 'root',
-            'password' => '0wn4G377!',
+            'password' => 'P@ssW0rd?',
             'dbname'   => 'kortact_new',
         ],
         'application' => [
