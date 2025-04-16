@@ -19,7 +19,7 @@
  *        For docker or dynamic IPs:
  *          $_SERVER['REMOTE_ADDR']
  */
-defined('PTOOLS_IP') || define('PTOOLS_IP', '173.249.13.44');
+defined('PTOOLS_IP') || define('PTOOLS_IP', '123.123.123.123');
 defined('BASE_PATH') || define('BASE_PATH', dirname(dirname(__FILE__)));
 defined('APP_PATH') || define('APP_PATH', BASE_PATH . DIRECTORY_SEPARATOR . 'apps');
 
